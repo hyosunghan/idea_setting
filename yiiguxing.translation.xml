@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inner DTOS" />
       <item value="filter Dropshipping Fulfillment" />
       <item value="过滤掉" />
       <item value="剔除供应商自己发货" />
@@ -50,12 +51,11 @@
       <item value="Escape" />
       <item value="转义" />
       <item value="count Manual Resource" />
-      <item value="hyosunghan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="413" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

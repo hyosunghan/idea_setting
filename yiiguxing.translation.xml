@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="filter Dropshipping Fulfillment" />
+      <item value="过滤掉" />
+      <item value="剔除供应商自己发货" />
+      <item value="自有仓发货" />
+      <item value="unpossible" />
+      <item value="cheery up" />
+      <item value="});cheery up" />
+      <item value="cheery" />
+      <item value="饿，渴" />
+      <item value="hungry" />
+      <item value="pool:just another me" />
+      <item value="interview" />
+      <item value="面试" />
+      <item value="pool:you had face talked someone or who face talked to you?" />
+      <item value="pool:you had face to someone or who face to you?" />
+      <item value="pool:you had face to someone or that face to you?" />
+      <item value="awesome" />
+      <item value="牛逼" />
+      <item value="youcanbackfirstnow" />
+      <item value="did you go back" />
+      <item value="你回去了吗" />
+      <item value="are you backed?" />
+      <item value="diagnostic" />
+      <item value="{&quot;message&quot;:&quot;blocked conversation send message forbidden&quot;,&quot;error&quot;:&quot;conversation blocked&quot;,&quot;status&quot;:403,&quot;cause&quot;:&quot;blocked by conversation initiated by seller limited&quot;}" />
+      <item value="Sku não encontrado" />
+      <item value="Não foi possível obter as informações" />
+      <item value="progress" />
+      <item value="goals" />
+      <item value="The offset specified in a OFFSET clause may not be negative." />
+      <item value="Só é possível requisitar no máximo pedidos" />
+      <item value="直饮水卡" />
+      <item value="社区直饮水" />
+      <item value="水卡" />
+      <item value="feeder" />
+      <item value="feed" />
+      <item value="nb" />
+      <item value="noob" />
+      <item value="undisplay" />
+      <item value="display" />
+      <item value="disabled" />
+      <item value="enabled" />
+      <item value="is Valid If Number" />
+      <item value="Illegal number in row &quot; + i + &quot; and column &quot; + j" />
+      <item value="第n行第n列非法数字" />
+      <item value="formula" />
+      <item value="转换特殊符号" />
+      <item value="Escape" />
+      <item value="转义" />
+      <item value="count Manual Resource" />
+      <item value="hyosunghan" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
+        <entry key="ARABIC" value="2" />
+        <entry key="DANISH" value="8" />
+        <entry key="FRENCH" value="4" />
+        <entry key="GUJARATI" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="PORTUGUESE" value="32" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="3" />
+      </map>
+    </option>
+  </component>
+</application>

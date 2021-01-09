@@ -1,0 +1,41 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Downloads/ZDZN-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Downloads/amazon-mws-v20090101-java-2016-09-21" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Downloads/coral" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Downloads/springboot-security-oauth2-master" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/RuoYi" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/coral" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/demo_springboot" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/demo_springcloud" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp/hariexpress-erp-order" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp/hariexpress-erp-sdk" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp/hariexpress-erp-task" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_dealer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_dealer/hariexpress-erp-goods" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_dealer/hariexpress-erp-order" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_supplier" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hari-thirdparty-synchronize" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-adapter-manager" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-bff-web" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-callback" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-framework" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-goods" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-goods-supplier" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-label" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-notice" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-order" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-orders-supplier" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-sac" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-sdk" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-task" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hariexpress_erp_v2/hariexpress-erp-user" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/hyosunghan.github.io" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/index" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/renren-security" startUpFlag="FIRST" />
+  </component>
+</application>

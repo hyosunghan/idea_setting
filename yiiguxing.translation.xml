@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ocorreu um erro inesperado" />
       <item value="exceeds" />
       <item value="put If Absent" />
       <item value="重复" />
@@ -50,18 +51,17 @@
       <item value="enabled" />
       <item value="is Valid If Number" />
       <item value="Illegal number in row &quot; + i + &quot; and column &quot; + j" />
-      <item value="第n行第n列非法数字" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
+        <entry key="CHINESE" value="417" />
         <entry key="ENGLISH" value="417" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="33" />
+        <entry key="PORTUGUESE" value="34" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />

@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="URL asdasd deve começar com 'http'." />
       <item value="Já existe um sku com o IdSkuErp informado." />
+      <item value="URL asdasd deve começar com 'http'." />
       <item value="O campo StockQuantity não pode ser negativo ou nulo." />
       <item value="O campo IdSkuErp é obrigatório." />
       <item value="Não existe um produto com o Id informado." />
@@ -61,7 +61,7 @@
         <entry key="FRENCH" value="4" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="47" />
+        <entry key="PORTUGUESE" value="48" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />

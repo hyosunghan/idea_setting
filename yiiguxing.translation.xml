@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scroll Id" />
       <item value="{&quot;ObjectId&quot;:null,&quot;Message&quot;:&quot;Ocorreu um erro de validação&quot;,&quot;Errors&quot;:[{&quot;Field&quot;:&quot;Name&quot;,&quot;Message&quot;:&quot;O campo Name é obrigatório.&quot;},{&quot;Field&quot;:&quot;ListPrice&quot;,&quot;Message&quot;:&quot;O campo ListPrice deve ser maior que zero.&quot;},{&quot;Field&quot;:&quot;SalePrice&quot;,&quot;Message&quot;:&quot;O campo SalePrice deve ser maior que zero.&quot;},{&quot;Field&quot;:&quot;Height&quot;,&quot;Message&quot;:&quot;O campo Height deve ser maior que zero.&quot;},{&quot;Field&quot;:&quot;Width&quot;,&quot;Message&quot;:&quot;O campo Width deve ser maior que zero.&quot;},{&quot;Field&quot;:&quot;Length&quot;,&quot;Message&quot;:&quot;O campo Length deve ser maior que zero.&quot;},{&quot;Field&quot;:&quot;Weight&quot;,&quot;Message&quot;:&quot;O campo Weight deve ser maior que zero.&quot;}]}" />
       <item value="Já existe um sku com o IdSkuErp informado." />
       <item value="URL asdasd deve começar com 'http'." />
@@ -50,12 +51,11 @@
       <item value="Só é possível requisitar no máximo pedidos" />
       <item value="直饮水卡" />
       <item value="社区直饮水" />
-      <item value="水卡" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

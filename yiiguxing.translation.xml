@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wait Time" />
+      <item value="lease Time" />
       <item value="Report Processing Finished Notification" />
       <item value="Feed Processing Finished Notification" />
       <item value="Duplicate Key Exception" />
@@ -49,13 +51,11 @@
       <item value="Sku não encontrado" />
       <item value="Não foi possível obter as informações" />
       <item value="progress" />
-      <item value="goals" />
-      <item value="The offset specified in a OFFSET clause may not be negative." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

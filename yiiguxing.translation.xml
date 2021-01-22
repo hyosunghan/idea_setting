@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="税务" />
       <item value="alternative" />
       <item value="alien" />
       <item value="备用选项" />
-      <item value="税务" />
       <item value="备用" />
       <item value="预备" />
       <item value="category,catelogy" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
+        <entry key="CHINESE" value="434" />
         <entry key="ENGLISH" value="434" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />

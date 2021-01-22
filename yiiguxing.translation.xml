@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="category,catelogy" />
+      <item value="positive， reverse" />
+      <item value="正序，逆序" />
+      <item value="正向，逆向" />
+      <item value="正向" />
       <item value="wait Time" />
       <item value="lease Time" />
       <item value="Report Processing Finished Notification" />
@@ -46,16 +51,11 @@
       <item value="did you go back" />
       <item value="你回去了吗" />
       <item value="are you backed?" />
-      <item value="diagnostic" />
-      <item value="{&quot;message&quot;:&quot;blocked conversation send message forbidden&quot;,&quot;error&quot;:&quot;conversation blocked&quot;,&quot;status&quot;:403,&quot;cause&quot;:&quot;blocked by conversation initiated by seller limited&quot;}" />
-      <item value="Sku não encontrado" />
-      <item value="Não foi possível obter as informações" />
-      <item value="progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

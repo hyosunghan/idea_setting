@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commission" />
+      <item value="extra" />
+      <item value="ship" />
+      <item value="profit" />
+      <item value="cost" />
       <item value="税务" />
       <item value="alternative" />
       <item value="alien" />
@@ -46,16 +51,11 @@
       <item value="饿，渴" />
       <item value="hungry" />
       <item value="pool:just another me" />
-      <item value="interview" />
-      <item value="面试" />
-      <item value="pool:you had face talked someone or who face talked to you?" />
-      <item value="pool:you had face to someone or who face to you?" />
-      <item value="pool:you had face to someone or that face to you?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="434" />
-        <entry key="ENGLISH" value="434" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="439" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

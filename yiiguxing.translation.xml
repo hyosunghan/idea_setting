@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="son List" />
+      <item value="select Children" />
       <item value="commission" />
       <item value="extra" />
       <item value="ship" />
@@ -49,13 +51,11 @@
       <item value="});cheery up" />
       <item value="cheery" />
       <item value="饿，渴" />
-      <item value="hungry" />
-      <item value="pool:just another me" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Transaction Count" />
+      <item value="get Transactions" />
+      <item value="get Seller reputation" />
       <item value="剩余" />
       <item value="son List" />
       <item value="select Children" />
@@ -48,14 +51,11 @@
       <item value="剔除供应商自己发货" />
       <item value="自有仓发货" />
       <item value="unpossible" />
-      <item value="cheery up" />
-      <item value="});cheery up" />
-      <item value="cheery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

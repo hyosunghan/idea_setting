@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Timeout waiting for idle object" />
       <item value="set Transaction Count" />
       <item value="get Transactions" />
       <item value="get Seller reputation" />
@@ -50,12 +51,11 @@
       <item value="过滤掉" />
       <item value="剔除供应商自己发货" />
       <item value="自有仓发货" />
-      <item value="unpossible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="444" />
+        <entry key="ENGLISH" value="445" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

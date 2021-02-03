@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Desculpa, mas alguma coisa deu errada" />
       <item value="Não existe uma categoria pai com o ParentId especificado" />
       <item value="do Http Request Batch" />
       <item value="do Http Request Patch" />
@@ -42,7 +43,6 @@
       <item value="O campo IdSku é obrigatório." />
       <item value="O campo IdProduct é obrigatório." />
       <item value="A quantidade de registros por página deve ser inferior a 100" />
-      <item value="Desculpa, mas alguma coisa deu errada" />
       <item value="Ocorreu um erro inesperado" />
       <item value="exceeds" />
       <item value="put If Absent" />
@@ -61,7 +61,7 @@
         <entry key="FRENCH" value="4" />
         <entry key="GUJARATI" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="50" />
+        <entry key="PORTUGUESE" value="51" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />

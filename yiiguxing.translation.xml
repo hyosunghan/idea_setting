@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rabbit Mq Consumer Config" />
       <item value="Tentar novamente" />
       <item value="Parece que a Skyhub ficou fora de órbita." />
       <item value="Desculpa, mas alguma coisa deu errada" />
@@ -50,12 +51,11 @@
       <item value="put If Absent" />
       <item value="重复" />
       <item value="Desculpa, mas alguma coisa deu errad" />
-      <item value="recursive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

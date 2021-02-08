@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sell Sku Count" />
+      <item value="valid Sku Count" />
       <item value="Rabbit Mq Consumer Config" />
       <item value="Tentar novamente" />
       <item value="Parece que a Skyhub ficou fora de órbita." />
@@ -49,13 +51,11 @@
       <item value="Ocorreu um erro inesperado" />
       <item value="exceeds" />
       <item value="put If Absent" />
-      <item value="重复" />
-      <item value="Desculpa, mas alguma coisa deu errad" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

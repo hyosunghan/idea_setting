@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REFRESH" />
+      <item value="imitation" />
+      <item value="模拟" />
       <item value="pull Recovery" />
       <item value="pull Avaiable" />
       <item value="update Specified Content" />
@@ -48,14 +51,11 @@
       <item value="URL asdasd deve começar com 'http'." />
       <item value="O campo StockQuantity não pode ser negativo ou nulo." />
       <item value="O campo IdSkuErp é obrigatório." />
-      <item value="Não existe um produto com o Id informado." />
-      <item value="O campo IdSku é obrigatório." />
-      <item value="O campo IdProduct é obrigatório." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

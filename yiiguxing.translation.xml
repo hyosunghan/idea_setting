@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Specified Content" />
+      <item value="修改指定内容" />
       <item value="sell Sku Count" />
       <item value="valid Sku Count" />
       <item value="Rabbit Mq Consumer Config" />
@@ -49,13 +51,11 @@
       <item value="O campo IdProduct é obrigatório." />
       <item value="A quantidade de registros por página deve ser inferior a 100" />
       <item value="Ocorreu um erro inesperado" />
-      <item value="exceeds" />
-      <item value="put If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

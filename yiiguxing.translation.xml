@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pull Recovery" />
       <item value="pull Avaiable" />
       <item value="update Specified Content" />
       <item value="修改指定内容" />
@@ -50,12 +51,11 @@
       <item value="Não existe um produto com o Id informado." />
       <item value="O campo IdSku é obrigatório." />
       <item value="O campo IdProduct é obrigatório." />
-      <item value="A quantidade de registros por página deve ser inferior a 100" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="453" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

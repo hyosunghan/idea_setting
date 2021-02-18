@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recovery Listener" />
       <item value="REFRESH" />
       <item value="imitation" />
       <item value="模拟" />
@@ -50,12 +51,11 @@
       <item value="Já existe um sku com o IdSkuErp informado." />
       <item value="URL asdasd deve começar com 'http'." />
       <item value="O campo StockQuantity não pode ser negativo ou nulo." />
-      <item value="O campo IdSkuErp é obrigatório." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="CHINESE" value="456" />
+        <entry key="ENGLISH" value="457" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

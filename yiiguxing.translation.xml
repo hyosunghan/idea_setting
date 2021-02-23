@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Mercadodrop activation application has been successfully submitted, and within 2 working days, we will notify the review result via E-mail or Whats App" />
       <item value="开通Mercadodrop申请开通已成功递交，2个工作日，我们会通过E-mail或Whats App通知审核结果" />
       <item value="MERCADODROP HAS APPLY" />
       <item value="MERCADODROP HAS BEEN APPLY" />
@@ -50,12 +51,11 @@
       <item value="正向，逆向" />
       <item value="正向" />
       <item value="wait Time" />
-      <item value="lease Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

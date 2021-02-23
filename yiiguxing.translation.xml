@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mercadodrop status" />
+      <item value="mercado drop status" />
+      <item value="mercado drop状态" />
       <item value="The Mercadodrop activation application has been successfully submitted, and within 2 working days, we will notify the review result via E-mail or Whats App" />
       <item value="开通Mercadodrop申请开通已成功递交，2个工作日，我们会通过E-mail或Whats App通知审核结果" />
       <item value="MERCADODROP HAS APPLY" />
@@ -48,20 +51,18 @@
       <item value="category,catelogy" />
       <item value="positive， reverse" />
       <item value="正序，逆序" />
-      <item value="正向，逆向" />
-      <item value="正向" />
-      <item value="wait Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="466" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />
         <entry key="GUJARATI" value="1" />
+        <entry key="GALICIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="53" />
+        <entry key="PORTUGUESE" value="54" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />

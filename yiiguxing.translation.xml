@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incomplete item count reaches the maximum limit" />
+      <item value="incomplete item number reaches the maximum limit" />
       <item value="incomplete number reaches the maximum limit" />
       <item value="INCOMPLETE ITEM COUNT LIMIT" />
       <item value="INCOMPLETE LIMIT" />
@@ -49,13 +51,11 @@
       <item value="valid Sku Count" />
       <item value="Rabbit Mq Consumer Config" />
       <item value="Tentar novamente" />
-      <item value="Parece que a Skyhub ficou fora de órbita." />
-      <item value="Desculpa, mas alguma coisa deu errada" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INCOMPLETE" />
+      <item value="COMPLETED" />
+      <item value="incomplete" />
+      <item value="不完整" />
+      <item value="completed" />
+      <item value="uncompleted" />
+      <item value="uncomplete" />
+      <item value="UN Complete" />
+      <item value="已完善" />
+      <item value="未完善" />
+      <item value="待完善" />
+      <item value="completeness" />
+      <item value="完整性" />
+      <item value="完善程度" />
       <item value="mercadodrop status" />
       <item value="mercado drop status" />
       <item value="mercado drop状态" />
@@ -37,31 +51,17 @@
       <item value="剩余" />
       <item value="son List" />
       <item value="select Children" />
-      <item value="commission" />
-      <item value="extra" />
-      <item value="ship" />
-      <item value="profit" />
-      <item value="cost" />
-      <item value="税务" />
-      <item value="alternative" />
-      <item value="alien" />
-      <item value="备用选项" />
-      <item value="备用" />
-      <item value="预备" />
-      <item value="category,catelogy" />
-      <item value="positive， reverse" />
-      <item value="正序，逆序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />
         <entry key="GUJARATI" value="1" />
         <entry key="GALICIAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="54" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />

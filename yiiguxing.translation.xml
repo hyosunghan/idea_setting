@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PULL RECOVERY IN QUEUE" />
+      <item value="PULL RECOVERY QUEUE" />
       <item value="is Expired" />
       <item value="is Compeleted" />
       <item value="incomplete item count reaches the maximum limit" />
@@ -49,13 +51,11 @@
       <item value="pull Avaiable" />
       <item value="update Specified Content" />
       <item value="修改指定内容" />
-      <item value="sell Sku Count" />
-      <item value="valid Sku Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

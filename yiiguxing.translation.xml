@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get有效Count" />
       <item value="PULL RECOVERY IN QUEUE" />
       <item value="PULL RECOVERY QUEUE" />
       <item value="is Expired" />
@@ -50,11 +51,10 @@
       <item value="pull Recovery" />
       <item value="pull Avaiable" />
       <item value="update Specified Content" />
-      <item value="修改指定内容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
+        <entry key="CHINESE" value="503" />
         <entry key="ENGLISH" value="503" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />

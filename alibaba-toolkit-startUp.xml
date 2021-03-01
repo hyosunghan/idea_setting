@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Desktop/snake-AI" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/ZDZN-master" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/amazon-mws-v20090101-java-2016-09-21" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Downloads/coral" startUpFlag="FIRST" />

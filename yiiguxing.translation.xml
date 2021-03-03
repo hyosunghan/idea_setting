@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标题" />
+      <item value="OTHER TITLE LIMIT" />
       <item value="incomplete Limit Seller" />
       <item value="MECRODODROP SERVICE UNOPEND" />
       <item value="get Valid Bind Count" />
@@ -49,13 +51,11 @@
       <item value="invalid Ids" />
       <item value="Recovery Listener" />
       <item value="REFRESH" />
-      <item value="imitation" />
-      <item value="模拟" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="507" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

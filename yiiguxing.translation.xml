@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="够多" />
+      <item value="filter Pull Recovery Process" />
       <item value="PULL RECOVERY PREFIX" />
       <item value="check Pull Recovery Process" />
       <item value="authentic" />
@@ -49,13 +51,11 @@
       <item value="开通Mercadodrop申请开通已成功递交，2个工作日，我们会通过E-mail或Whats App通知审核结果" />
       <item value="MERCADODROP HAS APPLY" />
       <item value="MERCADODROP HAS BEEN APPLY" />
-      <item value="The method changes the geometry-related data. Therefore, * the native windowing system may ignore such requests, or it may modify * the requested data, so that the {@code Window} object is placed and sized * in a way that corresponds closely to the desktop settings." />
-      <item value="123456789012345678901234567890123456789012345678901 ref:0002" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="513" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="domain" />
       <item value="supplementary Mode" />
       <item value="variation combination size cannot more than 2" />
       <item value="combination size cannot more than 2" />
@@ -50,12 +51,11 @@
       <item value="completeness" />
       <item value="完整性" />
       <item value="完善程度" />
-      <item value="mercadodrop status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="ARABIC" value="2" />
         <entry key="DANISH" value="8" />
         <entry key="FRENCH" value="4" />
